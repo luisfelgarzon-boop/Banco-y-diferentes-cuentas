@@ -8,6 +8,7 @@ package Modelo;
  *
  * @author felip
  */
+
 public class FechaApertura {
     private int dia, mes, anio;
 

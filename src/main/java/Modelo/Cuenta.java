@@ -8,6 +8,7 @@ package Modelo;
  *
  * @author felip
  */
+
 public abstract class Cuenta {
     private String numero;
     private String nombreDueno;
